@@ -7,7 +7,7 @@
   * You should check whether the input numbers are sorted in ascending order and the number of integers is 2 * 10 in total. 
   * If not, you must print out the following error message and terminate your program, 
    "The input numbers are not in ascending order." Or, "You must input 2 sets of 10 numbers."
-  * You must use pointer and array
+  * You must use pointer, array, and dynamic memory allocation.
   
 - Execution example
   * [Input] 1, 2, 6, 8, 19, 100, 120, 210, 211, 212
